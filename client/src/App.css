@@ -59,7 +59,7 @@ a.active {
   display: flex;
   flex-direction: column;
   width: 400px;
-  gap: 10px;
+  gap: 12px;
 }
 .form h2 {
   color: white;
