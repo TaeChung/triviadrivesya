@@ -110,6 +110,7 @@ button:hover {
 select {
   padding: 10px;
   border: none;
+  margin: 15px;
 }
 .oneScore {
   color: #5ebfff;
